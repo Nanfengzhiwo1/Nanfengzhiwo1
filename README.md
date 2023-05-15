@@ -14,8 +14,7 @@
 
 ### Github Activity Stats
 
-[![](https://activity-graph.herokuapp.com/graph?username=Nanfengzhiwo1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nanfengzhiwo1's activity graph](https://activity-graph.herokuapp.com/graph?username=Nanfengzhiwo1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nanfengzhiwo1's github stats](https://github-readme-stats.vercel.app/api?username=Nanfengzhiwo1&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanfengzhiwo1&langs_count=6)
+![Nanfengzhiwo1's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanfengzhiwo1&langs_count=6)
 
