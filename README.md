@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Nanfengzhiwo1?theme=rule34">
 
-## My Biography
+## Nanfengzhiwo1's Biography
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+biography!;This+is+Nanfengzhiwo1!;I+will+intriduce+myself+to+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
@@ -12,8 +12,10 @@
 ### **技术栈:**
 
 
-### Github Activity Stats
-![Nanfengzhiwo1's activity graph](https://activity-graph.herokuapp.com/graph?username=Nanfengzhiwo1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Nanfengzhiwo1's Github Activity Stats
+
 ![Nanfengzhiwo1's github stats](https://github-readme-stats.vercel.app/api?username=Nanfengzhiwo1&show_icons=true&theme=vue)
+
+### Nanfengzhiwo1's Most used languages
 ![Nanfengzhiwo1's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanfengzhiwo1&langs_count=6)
 
