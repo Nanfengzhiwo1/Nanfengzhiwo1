@@ -1,26 +1,19 @@
+<img align="right" src="https://count.getloli.com/get/@:Nanfengzhiwo1?theme=rule34">
+
+## My Biography
+
+喜欢白嫖
+
+### **社交主页：**
 
 
-
-<!--
-**Nanfengzhiwo1/Nanfengzhiwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://github-readme-stats.vercel.app/api?username=Nanfengzhiwo1&show_icons=true&theme=dark&count_private=true)
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+### **技术栈:**
 
 
+### Github 活跃度
 
+[![](https://activity-graph.herokuapp.com/graph?username=Nanfengzhiwo1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Nanfengzhiwo1's github stats](https://github-readme-stats.vercel.app/api?username=Nanfengzhiwo1&show_icons=true&theme=vue)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanfengzhiwo1&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanfengzhiwo1&layout=compact&langs_count=6)
