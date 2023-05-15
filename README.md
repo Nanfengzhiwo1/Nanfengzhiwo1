@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
+
 
 <!--
 **Nanfengzhiwo1/Nanfengzhiwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,5 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Nanfengzhiwo1&show_icons=true&theme=dark&count_private=true)
 
-![](https://activity-graph.herokuapp.com/graph?username=Nanfengzhiwo1&theme=github)
 
 
