@@ -3,10 +3,8 @@
 ## My Biography
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+biography!;This+is+Nanfengzhiwo1!;Now+I+will+intriduce+myself+to+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+biography!;This+is+Nanfengzhiwo1!;I+will+intriduce+myself+to+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-
-喜欢白嫖
 
 ### **社交主页：**
 
