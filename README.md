@@ -3,7 +3,7 @@
 ## **Biography**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+biography!;This+is+Nanfengzhiwo1!;A+struggling+developer+from+China;I+will+intriduce+myself+to+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+biography!;This+is+Nanfengzhiwo1!;A+developer+from+Earth;I+will+intriduce+myself+to+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ### **Most used skills**
